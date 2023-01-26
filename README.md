@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Racee98
-- 👀 I’m interested in cyber security 
+- 👀 I’m interested in Data Science and Python  
 - 🌱 I’m currently learning python programming 
 - 📫 How to reach me rjlucas1998@gmail.com
 
